@@ -1,5 +1,5 @@
 #!/usr/env/bin python3
-# Mirrorscript v2 By Hazmirul Afiq
+# KaliMirrorscript v3 By Swarup Saha
 import subprocess, requests, re, sys
 import operator
 import argparse, apt, os
@@ -84,10 +84,8 @@ if __name__ == "__main__":
 
 	# Banner
 	print("#")
-	print("# Mirrorscripts-v2 - By Hazmirul Afiq")
-	print("# Automatically select the best Kali mirror and apply the configuration")
-	print("# https://github.com/IceM4nn/mirrorscript-v2")
-	print("# https://www.metahackers.pro/speed-kali-linux-update/")
+	print("# KaliMirrorscripts-v3 - By Swarup Saha")
+	print("# Automatically select the best Kali mirror and apply the configuration"
 	print("#\n")
 
 	# Preparing
